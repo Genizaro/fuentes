@@ -5,29 +5,3 @@
   font-style: normal;
   font-weight: 400;
 }
-.pdrow {
-  font-family: 'High Drowic';
-  font-size: 24px;
-}
-@font-face {
-  font-family: 'Enochian';
-  src: url('');
-    font-stretch: normal;
-  font-style: normal;
-  font-weight: 400;
-}
-.penoch {
-  font-family: 'Enochian';
-  font-size: 24px;
-}
-@font-face {
-  font-family: 'Espruar';
-  src: url('https://drive.google.com/file/d/11VaukUZw9xXVECzlEq5fCtwiBEzQ5rgO/view?usp=drive_link');
-    font-stretch: normal;
-  font-style: normal;
-  font-weight: 400;
-}
-.pespruar {
-  font-family: 'Espruar';
-  font-size: 24px;
-}
