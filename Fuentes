@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'High Drowic';
-  src: url('https://github.com/Genizaro/fuentes/blob/main/HighDrowic-LGAD.ttf') format('ttf');
+  src: url('./HighDrowic-LGAD.ttf') format('ttf');
     font-stretch: normal;
   font-style: normal;
   font-weight: 400;
